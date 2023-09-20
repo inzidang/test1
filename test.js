@@ -4,3 +4,7 @@ console.log("test1");
 function test(a,b) {
     return a*b;
 }
+
+function Login() {
+    return "로그인 성공";
+}
